@@ -1,1 +1,6 @@
-Test
+{
+  "login": {
+    "username": "KS",
+    "password": "KS1"
+  }
+}
